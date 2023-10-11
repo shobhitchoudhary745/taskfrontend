@@ -5,15 +5,15 @@
     "main.js.map": "/task-frontend/static/js/main.8735befc.chunk.js.map",
     "runtime-main.js": "/task-frontend/static/js/runtime-main.7dcbc674.js",
     "runtime-main.js.map": "/task-frontend/static/js/runtime-main.7dcbc674.js.map",
-    "static/js/2.b1b4fe54.chunk.js": "/task-frontend/static/js/2.b1b4fe54.chunk.js",
-    "static/js/2.b1b4fe54.chunk.js.map": "/task-frontend/static/js/2.b1b4fe54.chunk.js.map",
+    "static/js/2.21c16071.chunk.js": "/task-frontend/static/js/2.21c16071.chunk.js",
+    "static/js/2.21c16071.chunk.js.map": "/task-frontend/static/js/2.21c16071.chunk.js.map",
     "index.html": "/task-frontend/index.html",
     "static/css/main.e06eda3e.chunk.css.map": "/task-frontend/static/css/main.e06eda3e.chunk.css.map",
-    "static/js/2.b1b4fe54.chunk.js.LICENSE.txt": "/task-frontend/static/js/2.b1b4fe54.chunk.js.LICENSE.txt"
+    "static/js/2.21c16071.chunk.js.LICENSE.txt": "/task-frontend/static/js/2.21c16071.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7dcbc674.js",
-    "static/js/2.b1b4fe54.chunk.js",
+    "static/js/2.21c16071.chunk.js",
     "static/css/main.e06eda3e.chunk.css",
     "static/js/main.8735befc.chunk.js"
   ]
